@@ -495,7 +495,3 @@ Here is the accuracy of FedCADS under 100 clients with various client participat
         </tbody>
 </table>
 </p>
-
-
-# FedCADS-main
-# FedCADS-main
