@@ -4,12 +4,11 @@ Code for paper - **[FedCADS: Robust Federated Learning via Dual Distillation and
 We provide code to run FedCADS,
 [A_FedPD](https://openreview.net/pdf?id=h1iMVi2iEM),
 [FedGKD + PD](https://www.researchgate.net/profile/Dezhong-Yao/publication/373957735_FedGKD_Towards_Heterogeneous_Federated_Learning_via_Global_Knowledge_Distillation/links/65fae109a4857c7962653369/FedGKD-Toward-Heterogeneous-Federated-Learning-via-Global-Knowledge-Distillation.pdf),
-[FedDisco](https://proceedings.mlr.press/v202/ye23f/ye23f.pdf),
 [FedVRA](https://ojs.aaai.org/index.php/AAAI/article/view/26212),
 [FedDC](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf), 
 [FedAvg](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), 
 [FedDyn](https://openreview.net/pdf?id=B7v4QMR6Z9w), 
-[Scaffold](https://openreview.net/pdf?id=B7v4QMR6Z9w), and [FedProx](https://arxiv.org/abs/1812.06127) methods.
+[Scaffold](https://openreview.net/pdf?id=B7v4QMR6Z9w), and [FedFLD](https://ieeexplore.ieee.org/document/10887961) methods.
 
 
 ## Prerequisite
