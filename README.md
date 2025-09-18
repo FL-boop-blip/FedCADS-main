@@ -8,7 +8,7 @@ We provide code to run FedCADS,
 [FedDC](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf), 
 [FedAvg](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf), 
 [FedDyn](https://openreview.net/pdf?id=B7v4QMR6Z9w), 
-[Scaffold](https://openreview.net/pdf?id=B7v4QMR6Z9w), and [FedFLD](https://ieeexplore.ieee.org/document/10887961) methods.
+[Scaffold](https://openreview.net/pdf?id=B7v4QMR6Z9w), and [FedFLD](https://github.com/yang12318/FedFLD/blob/main/methods/FedFLD.py) methods.
 
 
 ## Prerequisite
